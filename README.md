@@ -11,3 +11,5 @@ The src folder contains the source code in Python. You can think of ql_trainer.p
 The ludo_board.gif file in the src folder is a modification of an image found in Wikipedia:
 
 https://commons.wikimedia.org/wiki/File:Ludo_board.svg
+
+Also, note that I simply uploaded a copy of our source code to GitHub which doesn't reflect our individual contributions.
